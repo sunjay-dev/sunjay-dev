@@ -1,6 +1,5 @@
-# Hi, I'm Sunjay Kumar
+# 💫 Hi, I'm Sunjay Kumar
 
-# 💫 About Me:
 🔭 I’m currently working on building web applications using Node.js and Express.js.<br>👯 I’m looking to collaborate on Open-source Node.js projects.<br>🤝 I’m looking for help with Improving security and performance in Node.js applications.<br>💬 Ask me about: Creating Discord bots with Discord.js, Express.js apps, and Node.js integrations.  <br>⚡ Fun fact: I love automating processes with JavaScript and experimenting with new web technologies!<br>
 
 
