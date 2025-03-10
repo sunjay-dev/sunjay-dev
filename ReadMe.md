@@ -2,6 +2,7 @@
 
 🔭 I’m currently working on building web applications using Node.js and Express.js.<br>👯 I’m looking to collaborate on Open-source Node.js projects.<br>💬 Ask me about: Creating Discord bots with Discord.js, Express.js apps, and Node.js integrations.  <br>⚡ Fun fact: I love automating processes with JavaScript and experimenting with new web technologies!<br>
 
+![blue](https://komarev.com/ghpvc/?username=sunjay-dev&color=blue)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -18,6 +19,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 
 # 📊 GitHub Stats:
 <div align="center">
